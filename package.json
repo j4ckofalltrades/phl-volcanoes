@@ -1,0 +1,34 @@
+{
+  "name": "phl-volcanoes",
+  "version": "1.0.0",
+  "description": "GeoJSON and TopoJSON data for PH volcanoes.",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j4ckofalltrades/phl-volcanoes.git"
+  },
+  "author": "Jordan Duabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j4ckofalltrades/phl-volcanoes/issues"
+  },
+  "devDependencies": {
+    "@mapbox/geojson-merge": "^1.1.1",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.4.1",
+    "prettier": "^2.6.2",
+    "topojson-server": "^3.0.1"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": false
+  },
+  "lint-staged": {
+    "*.{geojson,topojson}": "prettier --write data"
+  }
+}
