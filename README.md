@@ -1,7 +1,5 @@
 # Philippine volcanoes :philippines: :volcano:
 
-> bulkan - Filipino word for volcano.
-
 The entire dataset is available under the [data](./data) directory, classified into active, potentially active, and inactive volcanoes.
 
 Data sourced from [Wikipedia](https://en.wikipedia.org/wiki/List_of_active_volcanoes_in_the_Philippines) and the [PHIVOLCS](https://www.phivolcs.dost.gov.ph/index.php/volcano-hazard/volcanoes-of-the-philippines) website.
