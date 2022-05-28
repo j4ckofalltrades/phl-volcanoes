@@ -9,7 +9,14 @@
       },
       "properties": {
         "name": "Ambalatungan Group",
-        "classification": "active"
+        "classification": "active",
+        "elev": 2329,
+        "coord": "17°18′40″N 121°06′13″E",
+        "prov": ["Kalinga"],
+        "region": ["CAR"],
+        "isl_grp": "Luzon",
+        "alt_names": ["Mount Binuluan"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -20,7 +27,14 @@
       },
       "properties": {
         "name": "Babuyan Claro",
-        "classification": "active"
+        "classification": "active",
+        "elev": 1007,
+        "coord": "19°31′23″N 121°56′24″E",
+        "prov": ["Kalinga"],
+        "region": ["Region I"],
+        "isl_grp": "Luzon",
+        "alt_names": ["Mount Pangasun"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -30,8 +44,15 @@
         "coordinates": [121.48, 14.07]
       },
       "properties": {
-        "name": "Banahaw",
-        "classification": "active"
+        "name": "Mount Banahaw",
+        "classification": "active",
+        "elev": 2170,
+        "coord": "14°04′N 121°29′E",
+        "prov": ["Laguna", "Quezon"],
+        "region": ["Region IV-A"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -41,8 +62,15 @@
         "coordinates": [124.513, 11.558]
       },
       "properties": {
-        "name": "Biliran",
-        "classification": "active"
+        "name": "Mount Biliran",
+        "classification": "active",
+        "elev": 1340,
+        "coord": "11°33′29″N 124°30′47″E",
+        "prov": ["Biliran"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -52,8 +80,33 @@
         "coordinates": [124.05, 12.77]
       },
       "properties": {
-        "name": "Bulusan",
-        "classification": "active"
+        "name": "Mount Bulusan",
+        "classification": "active",
+        "elev": 1565,
+        "coord": "12°46′12″N 124°03′00″E",
+        "prov": ["Sorsogon"],
+        "region": ["Region V"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.215556, 10.279722]
+      },
+      "properties": {
+        "name": "Cabalian",
+        "classification": "active",
+        "elev": 945,
+        "coord": "10°17′13.2″N 125°13.25′0″E",
+        "prov": ["Southern Leyte"],
+        "region": ["Region VIII"],
+        "isl_grp": "Visayas",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -64,7 +117,14 @@
       },
       "properties": {
         "name": "Cagua",
-        "classification": "active"
+        "classification": "active",
+        "elev": 1133,
+        "coord": "18°13′19″N 122°07′23″E",
+        "prov": ["Cagayan"],
+        "region": ["Region II"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -75,7 +135,14 @@
       },
       "properties": {
         "name": "Camiguin de Babuyanes",
-        "classification": "active"
+        "classification": "active",
+        "elev": 712,
+        "coord": "18°49′48″N 121°51′36″E",
+        "prov": ["Cagayan"],
+        "region": ["Region II"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -86,7 +153,14 @@
       },
       "properties": {
         "name": "Didicas",
-        "classification": "active"
+        "classification": "active",
+        "elev": 228,
+        "coord": "19°04′37″N 122°12′07″E",
+        "prov": ["Cagayan"],
+        "region": ["Region II"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -96,8 +170,15 @@
         "coordinates": [124.673, 9.203]
       },
       "properties": {
-        "name": "Hibok-Hibok",
-        "classification": "active"
+        "name": "Mount Hibok-Hibok",
+        "classification": "active",
+        "elev": 1332,
+        "coord": "9°12′11″N 124°40′23″E",
+        "prov": ["Camiguin"],
+        "region": ["Region X"],
+        "isl_grp": "Mindanao",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -107,8 +188,15 @@
         "coordinates": [122.01, 20.469]
       },
       "properties": {
-        "name": "Iraya",
-        "classification": "active"
+        "name": "Mount Iraya",
+        "classification": "active",
+        "elev": 1009,
+        "coord": "20°28′08″N 122°00′36″E",
+        "prov": ["Batanes"],
+        "region": ["Region II"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -118,8 +206,15 @@
         "coordinates": [123.457, 13.457]
       },
       "properties": {
-        "name": "Iriga",
-        "classification": "active"
+        "name": "Mount Iriga",
+        "classification": "active",
+        "elev": 1196,
+        "coord": "13°27′25″N 123°27′25″E",
+        "prov": ["Camarines Sur"],
+        "region": ["Region V"],
+        "isl_grp": "Luzon",
+        "alt_names": ["Mount Asog"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -129,8 +224,15 @@
         "coordinates": [123.38, 13.658]
       },
       "properties": {
-        "name": "Isarog",
-        "classification": "active"
+        "name": "Mount Isarog",
+        "classification": "active",
+        "elev": 2011,
+        "coord": "13°27′25″N 123°27′25″E",
+        "prov": ["Camarines Sur"],
+        "region": ["Region V"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -141,7 +243,14 @@
       },
       "properties": {
         "name": "Jolo Group",
-        "classification": "active"
+        "classification": "active",
+        "elev": 620,
+        "coord": "6.013°N 121.057°E",
+        "prov": ["Sulu"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": ["Bud Dajo"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -151,8 +260,15 @@
         "coordinates": [123.132, 10.412]
       },
       "properties": {
-        "name": "Kanlaon",
-        "classification": "active"
+        "name": "Mount Kanlaon",
+        "classification": "active",
+        "elev": 2465,
+        "coord": "10°24′43″N 123°07′55″E",
+        "prov": ["Negros Occidental", "Negros Oriental"],
+        "region": ["Region VI", "Region VII"],
+        "isl_grp": "Visayas",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -162,8 +278,15 @@
         "coordinates": [126.047, 7.382]
       },
       "properties": {
-        "name": "Leonard Kniaseff",
-        "classification": "active"
+        "name": "Mount Leonard Kniaseff",
+        "classification": "active",
+        "elev": 1190,
+        "coord": "7°22′55″N 126°02′49″E",
+        "prov": ["Davao de Oro"],
+        "region": ["Region XI"],
+        "isl_grp": "Mindanao",
+        "alt_names": ["Leonard Kniazeff"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -173,8 +296,15 @@
         "coordinates": [124.32, 7.647]
       },
       "properties": {
-        "name": "Makaturing",
-        "classification": "active"
+        "name": "Mount Makaturing",
+        "classification": "active",
+        "elev": 1908,
+        "coord": "7°38′49″N 124°19′12″E",
+        "prov": ["Lanao del Sur"],
+        "region": ["BARMM"],
+        "isl_grp": "Mindanao",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -184,8 +314,15 @@
         "coordinates": [125.07, 6.37]
       },
       "properties": {
-        "name": "Matutum",
-        "classification": "active"
+        "name": "Mount Matutum",
+        "classification": "active",
+        "elev": 2286,
+        "coord": "6°22′N 125°04′E",
+        "prov": ["South Cotabato"],
+        "region": ["Region XII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -195,8 +332,15 @@
         "coordinates": [123.685, 13.257]
       },
       "properties": {
-        "name": "Mayon",
-        "classification": "active"
+        "name": "Mount Mayon",
+        "classification": "active",
+        "elev": 2463,
+        "coord": "13°15′25″N 123°41′06″E",
+        "prov": ["Albay"],
+        "region": ["Region V"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -206,8 +350,15 @@
         "coordinates": [124.892, 6.113]
       },
       "properties": {
-        "name": "Mount Melibengoy",
-        "classification": "active"
+        "name": "Mount Mélébingóy",
+        "classification": "active",
+        "elev": 1824,
+        "coord": "6°06′47″N 124°53′31″E",
+        "prov": ["South Cotabato"],
+        "region": ["Region XII"],
+        "isl_grp": "Mindanao",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -217,8 +368,15 @@
         "coordinates": [125.068, 7.877]
       },
       "properties": {
-        "name": "Musuan",
-        "classification": "active"
+        "name": "Mount Musuan",
+        "classification": "active",
+        "elev": 646,
+        "coord": "7°52′37″N 125°04′05″E",
+        "prov": ["Bukidnon"],
+        "region": ["Region X"],
+        "isl_grp": "Mindanao",
+        "alt_names": ["Mount Calayo"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -228,8 +386,15 @@
         "coordinates": [120.35, 15.13]
       },
       "properties": {
-        "name": "Pinatubo",
-        "classification": "active"
+        "name": "Mount Pinatubo",
+        "classification": "active",
+        "elev": 1486,
+        "coord": "15°08′N 120°21′E",
+        "prov": ["Pampanga", "Tarlac", "Zambales"],
+        "region": ["Region III"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -239,8 +404,15 @@
         "coordinates": [124.5, 7.7]
       },
       "properties": {
-        "name": "Ragang",
-        "classification": "active"
+        "name": "Mount Ragang",
+        "classification": "active",
+        "elev": 2815,
+        "coord": "7°42′N 124°30′E",
+        "prov": ["Lanao del Sur", "Cotabato"],
+        "region": ["BARMM", "Region XII"],
+        "isl_grp": "Mindanao",
+        "alt_names": ["Mount Piapayungan", "Blue Mountain"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -250,8 +422,15 @@
         "coordinates": [121.3, 14.12]
       },
       "properties": {
-        "name": "San Pablo Volcanic Field",
-        "classification": "active"
+        "name": "Laguna Volcanic Field",
+        "classification": "active",
+        "elev": 1090,
+        "coord": "14°07′N 121°18′E",
+        "prov": ["Laguna", "Batangas"],
+        "region": ["Region IV-A"],
+        "isl_grp": "Luzon",
+        "alt_names": ["San Pablo Volcanic Field"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -262,7 +441,14 @@
       },
       "properties": {
         "name": "Smith",
-        "classification": "active"
+        "classification": "active",
+        "elev": 688,
+        "coord": "19°32′02″N 121°55′01″E",
+        "prov": ["Cagayan"],
+        "region": ["Region II"],
+        "isl_grp": "Luzon",
+        "alt_names": ["Mount Babuyan"],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -273,7 +459,14 @@
       },
       "properties": {
         "name": "Taal",
-        "classification": "active"
+        "classification": "active",
+        "elev": 311,
+        "coord": "14°00′07″N 120°59′35″E",
+        "prov": ["Batangas"],
+        "region": ["Region IV-A"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     },
     {
@@ -284,7 +477,14 @@
       },
       "properties": {
         "name": "Unnamed volcano (Ibugos)",
-        "classification": "active"
+        "classification": "active",
+        "elev": -24,
+        "coord": "20°20′N 121°45′E",
+        "prov": ["Batanes"],
+        "region": ["Region II"],
+        "isl_grp": "Luzon",
+        "alt_names": [""],
+        "marker-symbol": "volcano"
       }
     }
   ]
