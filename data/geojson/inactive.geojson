@@ -60,6 +60,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [124.853, 10.872]
+      },
+      "properties": {
+        "name": "Mahagnao",
+        "classification": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [120.683333333333, 15.8666666666667]
       },
       "properties": {

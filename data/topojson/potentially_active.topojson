@@ -8,72 +8,105 @@
           "type": "Point",
           "coordinates": [120.805, 15.828],
           "properties": {
-            "name": "Amorong",
-            "classification": "potentially_active"
+            "name": "Mount Amorong",
+            "classification": "potentially_active",
+            "elev": 376,
+            "coord": "15°49′41″N 120°48′18″E",
+            "prov": ["Pangasinan"],
+            "region": ["Region I"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [125.27, 7.008],
           "properties": {
-            "name": "Apo",
-            "classification": "potentially_active"
+            "name": "Mount Apo",
+            "classification": "potentially_active",
+            "elev": 2954,
+            "coord": "7°00′29″N 125°16′12″E",
+            "prov": ["Cotabato", "Davao del Sur"],
+            "region": ["Region XI", "Region XII"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
-          "coordinates": [120.742, 15.2, 0],
+          "coordinates": [120.742, 15.2],
           "properties": {
-            "name": "Arayat",
-            "classification": "potentially_active"
+            "name": "Mount Arayat",
+            "classification": "potentially_active",
+            "elev": 1026,
+            "coord": "15°12′00″N 120°44′31″E",
+            "prov": ["Pampanga"],
+            "region": ["Region III"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [124.98, 8.77],
           "properties": {
-            "name": "Balatukan",
-            "classification": "potentially_active"
+            "name": "Mount Balatukan",
+            "classification": "potentially_active",
+            "elev": 2560,
+            "coord": "8°46′N 124°59′E",
+            "prov": ["Misamis Oriental"],
+            "region": ["Region X"],
+            "isl_grp": "Mindanao",
+            "alt_names": ["Mount Balatocan", "Mount Balingoan"],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [125.375, 5.4],
           "properties": {
-            "name": "Balut",
-            "classification": "potentially_active"
+            "name": "Balut Island",
+            "classification": "potentially_active",
+            "elev": 862,
+            "coord": "5°24′00″N 125°22′30″E",
+            "prov": ["Davao Occidental"],
+            "region": ["Region XI"],
+            "isl_grp": "Mindanao",
+            "alt_names": ["Malulong"],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
-          "coordinates": [125.221, 10.287, 0],
-          "properties": {
-            "name": "Cabalían",
-            "classification": "potentially_active"
-          }
-        },
-        {
-          "type": "Point",
-          "coordinates": [124.7, 9.1],
-          "properties": {
-            "name": "Camiguin Mindanao",
-            "classification": "potentially_active"
-          }
-        },
-        {
-          "type": "Point",
-          "coordinates": [124.532, 10.412, 0],
+          "coordinates": [124.532, 10.412],
           "properties": {
             "name": "Cancajanag",
-            "classification": "potentially_active"
+            "classification": "potentially_active",
+            "elev": 900,
+            "coord": "5°24′00″N 125°22′30″E",
+            "prov": ["Leyte"],
+            "region": ["Region VIII"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [123.175, 9.258],
           "properties": {
-            "name": "Cuernos de Negros",
-            "classification": "potentially_active"
+            "name": "Mount Talinis",
+            "classification": "potentially_active",
+            "elev": 1903,
+            "coord": "9°15′29″N 123°10′30″E",
+            "prov": ["Negros Oriental"],
+            "region": ["Region VIII"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
@@ -81,23 +114,44 @@
           "coordinates": [120.56, 5.44],
           "properties": {
             "name": "Dakut",
-            "classification": "potentially_active"
+            "classification": "potentially_active",
+            "elev": 474,
+            "coord": "5°4′00″N 120°56′00″E",
+            "prov": ["Sulu"],
+            "region": ["BARMM"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [124.8, 7.95],
           "properties": {
-            "name": "Kalatungan",
-            "classification": "potentially_active"
+            "name": "Mount Kalatungan",
+            "classification": "potentially_active",
+            "elev": 2860,
+            "coord": "7°57′18″N 124°48′09″E",
+            "prov": ["Bukidnon"],
+            "region": ["Region X"],
+            "isl_grp": "Mindanao",
+            "alt_names": ["Mount Calatungan"],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [122.792, 14.02],
           "properties": {
-            "name": "Labo",
-            "classification": "potentially_active"
+            "name": "Mount Labo",
+            "classification": "potentially_active",
+            "elev": 1544,
+            "coord": "14°01′12″N 122°47′31″E",
+            "prov": ["Camarines Norte"],
+            "region": ["Region V"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
@@ -105,7 +159,14 @@
           "coordinates": [121.27, 14.42],
           "properties": {
             "name": "Laguna Caldera",
-            "classification": "potentially_active"
+            "classification": "potentially_active",
+            "elev": 743,
+            "coord": "14°25′N 121°16′E",
+            "prov": ["Rizal"],
+            "region": ["Region IV-A"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
@@ -113,87 +174,149 @@
           "coordinates": [124.47, 7.65],
           "properties": {
             "name": "Latukan",
-            "classification": "potentially_active"
-          }
-        },
-        {
-          "type": "Point",
-          "coordinates": [124.853, 10.872],
-          "properties": {
-            "name": "Mahagnao",
-            "classification": "potentially_active"
+            "classification": "potentially_active",
+            "elev": 2280,
+            "coord": "7°39′N 124°28′E",
+            "prov": ["Lanao del Sur"],
+            "region": ["BARMM"],
+            "isl_grp": "Mindanao",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [123.597, 13.422],
           "properties": {
-            "name": "Malinao",
-            "classification": "potentially_active"
+            "name": "Mount Malinao",
+            "classification": "potentially_active",
+            "elev": 1548,
+            "coord": "13°25′19″N 123°35′49″E",
+            "prov": ["Albay", "Camarines Sur"],
+            "region": ["Region V"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [122.018, 13.24],
           "properties": {
-            "name": "Malindig",
-            "classification": "potentially_active"
+            "name": "Mount Malindig",
+            "classification": "potentially_active",
+            "elev": 1157,
+            "coord": "13°14′24″N 122°01′05″E",
+            "prov": ["Marinduque"],
+            "region": ["Mimaropa"],
+            "isl_grp": "Luzon",
+            "alt_names": ["Mount Malindik", "Mount Marlanga"],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [123.25, 10.65],
           "properties": {
-            "name": "Mandalagan",
-            "classification": "potentially_active"
+            "name": "Mount Mandalagan",
+            "classification": "potentially_active",
+            "elev": 1885,
+            "coord": "10°39′0″N 122°15′0″E",
+            "prov": ["Negros Occidental"],
+            "region": ["Region VI"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [120.47, 14.52],
           "properties": {
-            "name": "Mariveles",
-            "classification": "potentially_active"
+            "name": "Mount Mariveles",
+            "classification": "potentially_active",
+            "elev": 1398,
+            "coord": "14°31′N 120°28′E",
+            "prov": ["Bataan"],
+            "region": ["Region III"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [120.4, 14.705],
           "properties": {
-            "name": "Natib",
-            "classification": "potentially_active"
+            "name": "Mount Natib",
+            "classification": "potentially_active",
+            "elev": 1253,
+            "coord": "14°42′18″N 120°24′00″E",
+            "prov": ["Bataan"],
+            "region": ["Region III"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [120.893, 13.723],
           "properties": {
-            "name": "Panay",
-            "classification": "potentially_active"
+            "name": "Mount Panay",
+            "classification": "potentially_active",
+            "elev": 501,
+            "coord": "13°43′23″N 120°53′35″E",
+            "prov": ["Batangas"],
+            "region": ["Region IV-A"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [121.433333333333, 14.0666666666667],
           "properties": {
-            "name": "San Cristobal",
-            "classification": "potentially_active"
+            "name": "Mount San Cristobal",
+            "classification": "potentially_active",
+            "elev": 1470,
+            "coord": "14°04′N 121°26′E",
+            "prov": ["Laguna", "Quezon"],
+            "region": ["Region IV-A"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [120.55, 16.33],
           "properties": {
-            "name": "Santo Tomas Benguet",
-            "classification": "potentially_active"
+            "name": "Mount Santo Tomas",
+            "classification": "potentially_active",
+            "elev": 2260,
+            "coord": "16°20′N 120°33′E",
+            "prov": ["Benguet"],
+            "region": ["CAR"],
+            "isl_grp": "Luzon",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         },
         {
           "type": "Point",
           "coordinates": [123.23, 10.77],
           "properties": {
-            "name": "Silay",
-            "classification": "potentially_active"
+            "name": "Mount Silay",
+            "classification": "potentially_active",
+            "elev": 1535,
+            "coord": "10°46′N 123°14′E",
+            "prov": ["Negros Occidental"],
+            "region": ["Region VI"],
+            "isl_grp": "Visayas",
+            "alt_names": [],
+            "marker-symbol": "volcano"
           }
         }
       ]

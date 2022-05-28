@@ -51,7 +51,7 @@
         "prov": ["Laguna", "Quezon"],
         "region": ["Region IV-A"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -69,7 +69,7 @@
         "prov": ["Biliran"],
         "region": ["Region VIII"],
         "isl_grp": "Visayas",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -87,7 +87,7 @@
         "prov": ["Sorsogon"],
         "region": ["Region V"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -105,7 +105,7 @@
         "prov": ["Southern Leyte"],
         "region": ["Region VIII"],
         "isl_grp": "Visayas",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -123,7 +123,7 @@
         "prov": ["Cagayan"],
         "region": ["Region II"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -141,7 +141,7 @@
         "prov": ["Cagayan"],
         "region": ["Region II"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -159,7 +159,7 @@
         "prov": ["Cagayan"],
         "region": ["Region II"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -177,7 +177,7 @@
         "prov": ["Camiguin"],
         "region": ["Region X"],
         "isl_grp": "Mindanao",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -195,7 +195,7 @@
         "prov": ["Batanes"],
         "region": ["Region II"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -231,7 +231,7 @@
         "prov": ["Camarines Sur"],
         "region": ["Region V"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -267,7 +267,7 @@
         "prov": ["Negros Occidental", "Negros Oriental"],
         "region": ["Region VI", "Region VII"],
         "isl_grp": "Visayas",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -303,7 +303,7 @@
         "prov": ["Lanao del Sur"],
         "region": ["BARMM"],
         "isl_grp": "Mindanao",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -321,7 +321,7 @@
         "prov": ["South Cotabato"],
         "region": ["Region XII"],
         "isl_grp": "Mindanao",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -339,7 +339,7 @@
         "prov": ["Albay"],
         "region": ["Region V"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -357,7 +357,7 @@
         "prov": ["South Cotabato"],
         "region": ["Region XII"],
         "isl_grp": "Mindanao",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -393,7 +393,7 @@
         "prov": ["Pampanga", "Tarlac", "Zambales"],
         "region": ["Region III"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -465,7 +465,7 @@
         "prov": ["Batangas"],
         "region": ["Region IV-A"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     },
@@ -483,7 +483,7 @@
         "prov": ["Batanes"],
         "region": ["Region II"],
         "isl_grp": "Luzon",
-        "alt_names": [""],
+        "alt_names": [],
         "marker-symbol": "volcano"
       }
     }
